@@ -1,6 +1,8 @@
 # Processing-Terrain-Gen
 Processing terrain generator project
 
+To open the project download the zip file and open the "Project 4" file. 
+
 How to use the terrain generator: 
 
 Camera: click and drag to adjust camera. Use the scroll wheel to adjust the zoom.
